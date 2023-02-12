@@ -67,4 +67,9 @@ The Image Container Component is a functional and customizable solution for addi
 
 Add the resourses and you will see this amazing result
 
+ 
+
+![This is an image](https://github.com/sgermosen/Image-Container/blob/main/originalImage.png)
+![This is an image](https://github.com/sgermosen/Image-Container/blob/main/imageReplace.png)
+
 
