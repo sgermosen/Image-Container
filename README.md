@@ -22,7 +22,7 @@ Finally, when the cancelIcon is clicked, the source of the imageElement is set b
 Conclusion
 The Image Container Component is a functional and customizable solution for adding image upload, view, and delete functionality to a web page. The code can be easily adapted to fit the specific requirements of a project and the showConfirmationModal() function can be implemented to provide a confirmation prompt to the user before they delete an image.
 
-#How to used it in ASP.Net 
+# How to used it in ASP.Net 
 
 ## Give it some styles
 <style>
@@ -59,9 +59,12 @@ The Image Container Component is a functional and customizable solution for addi
                         <i class="pencil-icon fas fa-pencil-alt"></i>
                         
                         <i class="trash-icon fas fa-trash" where-to-go="simpleFunction(1)"></i>
+                       @* <i class="trash-icon fas fa-trash" where-to-go="/Reports/DeleteImage?id=1"></i>*@
 
                         <i class="cancel-icon fas fa-times"></i>
                     </div>
                 </div> 
 
-Add the resourses 
+Add the resourses and you will see this amazing result
+
+
